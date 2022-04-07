@@ -2,10 +2,9 @@
 
 # About
 
-**Developed** a react TodoList using **react-hooks**.
-Had solid understanding of **React Props** and
-**React useState Hook**. Also, had good understanding
-of React folder structure.
+**Developed** an application about tours and their information.
+This application I created while I was learning from React projects from FreeCode Camp. I have used the same API which was
+used in the tutorial.
 
 
 # TABLE OF CONTENTS
@@ -31,9 +30,12 @@ of React folder structure.
 
 
 # Description
-Developed **ToDoList** application, in which user 
-can add items and then delete them after completing
-the task. Icons are added through font awesome.
+Created an application , about tours. I got inspired while I
+was learning from Freecode camp react tutorial and I have made while I was learning.Created different components and also used the state hook. User can get information about tours and price,
+also user can read more information by clicking on the show more 
+button. I have learned so many new things and I have used the same
+API which was used in the tutorial. Big thank you to freecode camp.
+
 
 
 
@@ -63,9 +65,9 @@ HTML
 
 [React-Documentation](https://reactjs.org/docs/components-and-props.html)
 
-[Tutorial](https://www.youtube.com/watch?v=EUM78cxo0i8)
+[Tutorial](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=4665s)
 
-[Tutorial](https://www.youtube.com/watch?v=dMH1_YtUTSQ)
+
 
 [Colors](https://coolors.co/palettes/trending)
 
@@ -77,10 +79,10 @@ HTML
 # SCREENSHOT
 ![SCREENSHOT](react-todo1.png)
 
-![SCREENSHOT](react-todo2.png)
+
 
 # GIT_HUB-REPOSITORY
-[GIT-HUB](https://github.com/nehreetkaur/react-Project)
+[GIT-HUB](https://github.com/nehreetkaur/react-toursProject)
 
 # Heroku-Deployed-Link
-[Heroku](https://react-todolist-proj.herokuapp.com/)
+[Heroku]()
