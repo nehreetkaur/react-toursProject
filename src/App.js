@@ -54,7 +54,7 @@ useEffect(()=>{
    return <main>
      <div className="title">
        <h2>no tours left</h2>
-       <button className='btn' onClick={()=>fetchTours()}>Refresh</button>
+       <button className='btn' onClick={()=>fetchTours()}>Back To Tours</button>
      </div>
    </main>
  }

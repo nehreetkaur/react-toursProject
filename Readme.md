@@ -31,10 +31,7 @@ used in the tutorial.
 
 # Description
 Created an application , about tours. I got inspired while I
-was learning from Freecode camp react tutorial and I have made while I was learning.Created different components and also used the state hook. User can get information about tours and price,
-also user can read more information by clicking on the show more 
-button. I have learned so many new things and I have used the same
-API which was used in the tutorial. Big thank you to freecode camp.
+was learning from Freecode camp react tutorial and I have made while I was learning.Created different components and also used the state hook. User can get information about tours and price,also user can read more information by clicking on the show more button. I have learned so many new things and I have used the sameAPI which was used in the tutorial. Big thank you to freecode camp.Also, if user is not interested , can remove the tour from the list and if no tours left in the list user can go back to the tours list to explore them again.
 
 
 
@@ -77,7 +74,8 @@ HTML
 
 
 # SCREENSHOT
-![SCREENSHOT](react-todo1.png)
+![SCREENSHOT](toursreact1.png)
+![SCREENSHOT](toursreact2.png)
 
 
 
